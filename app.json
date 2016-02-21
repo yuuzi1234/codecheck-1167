@@ -1,0 +1,7 @@
+{
+    "name": "SPRINT",
+    "description": "SPRINT portfolio app with Python and Django",
+    "repository": "https://github.com/jtwp470/codecheck-1167",
+    "keywords": ["python", "django" ],
+    "addons": ["heroku-postgresql"]
+}
